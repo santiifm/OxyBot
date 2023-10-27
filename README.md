@@ -1,6 +1,6 @@
 # README
 
-How to Run the script:
-  1- Run 'rake scrape:run'
-  2- Go to the gym
+How to Run the script:__
+  1- Run 'rake scrape:run'__
+  2- Go to the gym__
   3- Enjoy the muscles
